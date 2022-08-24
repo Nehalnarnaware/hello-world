@@ -1,10 +1,10 @@
-<h1>< <!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <body>
 
-<h1>My Global logic </h1>
-<p>training devops </p>
+<h1>GLOBAL LOGIC /h1>
+<p>DEVOPS TRAINING</p>
 
 </body>
-</html> /h1>
+</html> 
 
