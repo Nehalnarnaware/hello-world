@@ -1,2 +1,10 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
 
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h1>My DEVOPS TRANING</h1>
+<p>My GLOBAL LOGIC</p>
+
+</body>
+</html> 
